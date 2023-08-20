@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/College_Website_fcii/static/css/main.338eeeaf.css",
+    "main.js": "/College_Website_fcii/static/js/main.ba16d08a.js",
+    "static/media/sld5.png": "/College_Website_fcii/static/media/sld5.ec2da7792d0cc52a01f2.png",
+    "static/media/sld3.png": "/College_Website_fcii/static/media/sld3.356841e6796041c3db84.png",
+    "static/media/sld4.png": "/College_Website_fcii/static/media/sld4.4e07ffa75aaeb198e042.png",
+    "static/media/sld6.png": "/College_Website_fcii/static/media/sld6.01162c8f8d4253c9e37a.png",
+    "static/media/sld7.png": "/College_Website_fcii/static/media/sld7.0f8efb64b3c04578c36a.png",
+    "static/media/fci6.jpg": "/College_Website_fcii/static/media/fci6.a8c59f8c5d742d9b8306.jpg",
+    "static/media/fci1.jpg": "/College_Website_fcii/static/media/fci1.c0e92eee3e2ee7847d26.jpg",
+    "static/media/fci3.jpg": "/College_Website_fcii/static/media/fci3.531278e2403483be73cd.jpg",
+    "static/media/fci5.jpg": "/College_Website_fcii/static/media/fci5.f507c4a3d945f77d7dcf.jpg",
+    "static/media/fci4.jpg": "/College_Website_fcii/static/media/fci4.c2afc9c8204fc40a37d7.jpg",
+    "static/media/1.jpeg": "/College_Website_fcii/static/media/1.e3db7c1f1b1612420a5e.jpeg",
+    "static/media/sld1.png": "/College_Website_fcii/static/media/sld1.711d63b2b86f08a1f45e.png",
+    "static/media/2.jpeg": "/College_Website_fcii/static/media/2.5082c831fdf48e8db03a.jpeg",
+    "static/media/fci2.jpg": "/College_Website_fcii/static/media/fci2.cebbcea52c69adade607.jpg",
+    "static/media/sld2.png": "/College_Website_fcii/static/media/sld2.fe4a6883610e204c1f04.png",
+    "static/media/h2.jpg": "/College_Website_fcii/static/media/h2.1882028c800f9cd662f6.jpg",
+    "static/media/bg3.jpg": "/College_Website_fcii/static/media/bg3.a0354e18f3444f241931.jpg",
+    "static/media/sld.png": "/College_Website_fcii/static/media/sld.7067bf0b6450368398e2.png",
+    "static/media/f_body_bg.jpg": "/College_Website_fcii/static/media/f_body_bg.ff8e1cc0b53f011ebc75.jpg",
+    "static/media/h1.jpg": "/College_Website_fcii/static/media/h1.74c7ba3b1d8f0247025a.jpg",
+    "static/media/bg1.jpeg": "/College_Website_fcii/static/media/bg1.07cfa40451ae9978a640.jpeg",
+    "static/media/footer.png": "/College_Website_fcii/static/media/footer.dc1625e7977e544bfbc0.png",
+    "static/media/univ-comm (1).webp": "/College_Website_fcii/static/media/univ-comm (1).a9121832f3a8f9cc48cd.webp",
+    "static/media/centers-units.webp": "/College_Website_fcii/static/media/centers-units.8692f0a91c5528623070.webp",
+    "index.html": "/College_Website_fcii/index.html",
+    "main.338eeeaf.css.map": "/College_Website_fcii/static/css/main.338eeeaf.css.map",
+    "main.ba16d08a.js.map": "/College_Website_fcii/static/js/main.ba16d08a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.338eeeaf.css",
+    "static/js/main.ba16d08a.js"
+  ]
+}
