@@ -1,0 +1,20 @@
+.TrainingAtFci{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.TrainingAtFci h2{
+    color: #0c4560;
+
+}
+.TrainingAtFci h4{
+    color: rgb(45, 45, 164);
+}
+
+.TrainingAtFci p{
+    padding: 10px;
+}
+
+.TrainingAtFci h5{
+    color: red !important;
+}

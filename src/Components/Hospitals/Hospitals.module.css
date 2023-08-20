@@ -1,0 +1,55 @@
+.sec1 {
+    box-sizing: border-box;
+    background-image: url('../images/h2.jpg');
+    display: flex;
+    height: 70vh;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.sec1 h2{
+    margin-top: 250px;
+    font-size: 36px;
+        color: #ffffff;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-weight: 700;
+    
+}
+.sec2{
+    direction: rtl;
+    margin-right: 50px;
+    margin-bottom: 70px;
+}
+.sec2 a{
+    color: darkblue;
+    text-decoration: none;
+            font-family: "DroidArabicKufiRegular", sans-serif;
+            font-size: large;
+}
+
+.sec2 a:hover {
+    color: rgb(41, 167, 125);
+}
+.sec2 hr{
+    margin-right: 10px;
+    width: 120px;
+    height: 3px;
+    background-color: red;
+    color: red;
+    border: solid red ;
+}
+
+.sec2 h1{
+        font-family: "DroidArabicKufiRegular", sans-serif;
+            color: #212121;
+            font-weight: 400;
+}
+
+.sec2 h3{
+    color: red;
+    margin-bottom: 30px;
+            font-family: "DroidArabicKufiRegular", sans-serif;
+}
+

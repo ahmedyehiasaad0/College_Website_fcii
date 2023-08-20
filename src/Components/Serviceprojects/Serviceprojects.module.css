@@ -1,0 +1,30 @@
+.serviceprojects {
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 80px;
+    margin-left: 7%;
+    position: relative;
+
+}
+
+.serviceprojects p,
+h2,
+
+h5,
+h4 {
+    font-size: 14pt;
+    font-family: 'times new roman', times;
+}
+
+.layerr {
+    width: 0px;
+    height: 0px;
+    border-left: 120px solid transparent;
+    border-right: 120px solid transparent;
+    border-bottom: 120px solid red;
+  
+    position: fixed;
+    top: 0;
+    z-index: 5;
+}

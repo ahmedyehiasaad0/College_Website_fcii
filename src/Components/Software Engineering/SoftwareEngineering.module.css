@@ -1,0 +1,20 @@
+.soft {
+    margin-top: 50px;
+    width: 90%;
+    box-shadow: 0 5px 25px rgba(1 1 1/50%);
+    margin-bottom: 50px;
+}
+
+.soft h2 {
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+.soft p {
+    padding: 20px;
+    padding-bottom: 70px;
+}
+.soft span {
+    color: blue;
+    font-weight: bold;
+}

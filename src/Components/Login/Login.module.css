@@ -1,0 +1,33 @@
+.continer{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.login{
+    background-color: #FFFEC4;
+    border: none;
+    height: 530px;
+    width: 100%;
+    margin-bottom: 50px;
+        margin-top: 50px;
+        border-radius: 20px;
+    box-shadow: 6px 9px 15px rgba(128, 128, 128, 0.595);
+}
+
+.login h1{
+    margin-bottom: 70px;
+    padding-top: 50px;
+    font-weight: bold;
+}
+.login a{
+    padding-left: 20px;
+    font-size: 24px;
+    
+}
+
+.login input{
+    padding: 10px;
+    background-color: rgb(223, 217, 217);
+    width: 90%;
+    margin: auto;
+}

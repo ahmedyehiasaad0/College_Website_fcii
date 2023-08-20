@@ -1,0 +1,22 @@
+.commh2 {
+    color: #0c4560;
+
+}
+
+.CommServices {
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 0.25rem;
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+
+.CommServices a {
+    text-decoration: none;
+    color: #0c4560;
+}
+
+.commh2 span{
+    color: #9376E0;
+    font-weight: bold;
+}

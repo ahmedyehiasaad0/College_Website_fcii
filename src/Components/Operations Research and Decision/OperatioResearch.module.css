@@ -1,0 +1,21 @@
+.operationres {
+    margin-top: 50px;
+    width: 90%;
+    box-shadow: 0 5px 25px rgba(1 1 1/50%);
+    margin-bottom: 50px;
+}
+
+.operationres h2 {
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+.operationres p {
+    padding: 20px;
+    padding-bottom: 70px;
+}
+
+.operationres span {
+    color: blue;
+    font-weight: bold;
+}

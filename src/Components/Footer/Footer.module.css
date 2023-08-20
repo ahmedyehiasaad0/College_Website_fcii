@@ -1,0 +1,31 @@
+.footer {
+    background-color: #17427C;
+    height: 150px;
+    width: 100%;
+    /* margin-left: 5%;
+    margin-right: 5%; */
+    padding: 20px;
+}
+
+
+.footer h3 {
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.footer .icons {
+    margin-top: 30px;
+
+}
+
+.footer a {
+    color: #f0f0f0;
+    padding: 10px;
+
+    font-size: 1.6em;
+}
+
+.footer h3:hover,
+a:hover {
+    color: gold;
+}

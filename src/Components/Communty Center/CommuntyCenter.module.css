@@ -1,0 +1,17 @@
+.item {
+    direction: rtl;
+    box-sizing: border-box;
+}
+.photo{
+    width: 25%;
+    overflow: hidden;
+}
+.item img{
+    transition:transform 0.8s;
+    margin-bottom: 10px;
+    
+}
+
+.item img:hover{
+    transform: rotate(360deg);
+}

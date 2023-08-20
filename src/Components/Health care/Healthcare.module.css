@@ -1,0 +1,17 @@
+.healthcare{
+    direction: rtl;
+    margin-bottom: 50px;
+}
+.healthcare p{
+    padding: 20px;
+    font-size: large;
+}
+.healthcare h2{
+    color: brown;
+    font-weight: bold;
+}
+.healthcare h1{
+    color: coral;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}

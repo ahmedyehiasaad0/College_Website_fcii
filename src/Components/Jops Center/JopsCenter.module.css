@@ -1,0 +1,14 @@
+.item {
+    direction: rtl;
+    box-sizing: border-box;
+}
+.photo{
+    overflow: hidden;
+}
+.photo img{
+    transform:transform 0.5s;
+}
+
+.photo:hover img{
+    transform: scale(1.2);
+}
